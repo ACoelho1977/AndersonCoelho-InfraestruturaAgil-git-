@@ -131,3 +131,105 @@ GIT: A instalação do GIT foi corretamente instalada e configurado no Ubuntu, c
 O repositório remoto foi criado no GitHub e a comunicação entre o repositório local e remoto foi estabelecida com sucesso via SSH. O processo de sincronização entre os repositórios foi validado, garantindo que os arquivos locais fossem corretamente enviados para o repositório remoto.
 
 GitHub: A integração com o GitHub ocorreu sem dificuldades. O repositório foi clonado, modificações foram feitas localmente e as alterações foram enviadas para o repositório remoto sem erros. O uso de SSH garantiu uma autenticação segura e sem necessidade de inserir senhas repetidamente. A sincronização foi realizada sem erros e as alterações realizadas no repositório local refletiram com precisão no GitHub, confirmando que o ambiente de desenvolvimento colaborativo estava funcionando adequadamente.
+
+# 5. CONCLUSÃO
+
+A combinação de VirtualBox, Ubuntu, GIT e GitHub demonstrou ser uma solução eficiente para o desenvolvimento de software em um ambiente controlado e seguro onde o VirtualBox permitiu a criação de um ambiente isolado, enquanto o Ubuntu oferece um sistema operacional robusto, flexível e popular para desenvolvimento de código. O GIT e o GitHub são essenciais para o controle de versão e colaboração, garantindo que equipes possam trabalhar juntas de forma eficiente e organizada facilitando a colaboração entre desenvolvedores.
+
+A instalação e configuração do GIT no Ubuntu, bem como a integração com o GitHub, demonstram a eficácia dessa ferramenta no gerenciamento de versões e colaboração em projetos de desenvolvimento de software. A capacidade de rastrear e controlar alterações nos arquivos, permitindo que múltiplos desenvolvedores colaborem de maneira eficiente e sem riscos de sobrescrita de dados, é uma das grandes vantagens do uso do GIT.
+
+A configuração do repositório remoto no GitHub facilitou ainda mais o compartilhamento de código entre equipes, proporcionando um ambiente seguro e controlado para o desenvolvimento de projetos. O exercício foi bem-sucedido e atingiu seus objetivos de promover uma compreensão prática das ferramentas GIT e GitHub no contexto de desenvolvimento colaborativo.
+
+O uso dessas ferramentas não só melhoram a organização e a segurança no processo de desenvolvimento, como também facilitaram a colaboração entre equipes distribuídas. Com a integração bem-sucedida dessas tecnologias, o ambiente de desenvolvimento ficou mais ágil e produtivo, evidenciando a importância do uso dessas ferramentas em projetos de software modernos.
+
+# 6. BIBLIOGRAFIA
+
+AMARAL, D. C. et al. Gerenciamento ágil de projetos: aplicação em produtos inovadores. São Paulo: Saraiva, 2011.
+
+BACK, N.; LEAL, L. C. M. Uma metodologia de planejamento de teste de produtos industriais. Produção, Rio de Janeiro, v. 2, n. 1, p. 61-69, out. 1991. Disponível em: https://bit.ly/3xEAe8d. Acesso em: 13 dez. 2021.
+
+BASSO, D. E. Administração de redes de computadores. Curitiba, PR: Contentus, 2020.
+
+BECK, K. et al. O Manifesto Ágil. Trad. João Rotta Neto. [S. l.: s. n.], 2002. Disponível em: https://bit.ly/3CNSRKE. Acesso em: 13 dez.  2021.
+
+BELMIRO, N. J. Tecnologia da informação gerencial. São Paulo: Pearson Education do Brasil, 2015.
+
+BERMAN, D. Prometheus x grafite: qual você deve escolher para séries temporais ou monitoramento?. Logz.io, 2020. Disponível em: https://bit.ly/3lXfA13. Acesso em:13 dez. 2021.
+
+BEYER, B. et al. Engenharia de Confiabilidade do Google: como o Google administra seus sistemas de produção. São Paulo: Novatec, 2016.
+
+BOAGLIO, F. Jenkins, automatize tudo sem complicações. São Paulo: Casa do Código, 2016.
+
+BOSCARI, R. P. Implantando e testando o CACTI em uma rede empresarial. Curitiba, PR: Pontifícia Universidade Católica do Paraná, 2010. Disponível em: https://bit.ly/3AAqY6U. Acesso em: 13 dez. 2021.
+
+COUTINHO, T. Lean Manufacturing: por que adotar o sistema toyota de produção? Por que adotar o Sistema Toyota de Produção?. Voitto, 2020. Disponível em: https://bit.ly/3iOxelP. Acesso em: 13 dez. 2021.
+
+CONTRIBUIDOR. Surpresa! Amplo acordo sobre a definição de DevOps. DevOps, 2015. Disponível em: https://bit.ly/3xLMfc9. Acesso em: 13 dez. 2021.
+
+CORREIA, P. Monitoração para suporte de auto-gestão em aplicações de micro-serviços. 2019, 147f. Dissertação (Mestrado em Engenharia Informática) – Universidade Nova de Lisboa, Lisboa, 2019.
+
+CRITES, A. What devops means to me. Medium, 2016. Disponível em: https://bit.ly/3AJECF7. Acesso em: 13 dez. 2021.
+
+DENARDIN, G. W; BARRIQUELLO, C. H. Sistemas operacionais de tempo real e sua aplicação em sistemas embarcados. São Paulo: Blucher, 2019.
+
+ELASTIC. O que é o ELK Stack?. 2021. Disponível em: https://bit.ly/2VNVco0. Acesso em: 13 dez. 2021.
+
+ELASTIC. Conheça os principais produtos – todos gratuitos e abertos. 2021. Disponível em: https://bit.ly/3jLusg4. Acesso em:13 dez. 2021.
+
+ELASTIC STACK. Disponível em: https://bit.ly/2VNWLCo. Acesso em:13 dez. 2021.
+
+FLUENTD. Disponível em: https://bit.ly/3g17Jvu. Acesso em:12 dez. 2021.
+
+GAEA. O guia completo sobre CALMS em DevOps. GAEA, 2020. Disponível em: https://bit.ly/2VWqeKG. Acesso em: 18 abr. 2021.
+
+GAEA. Quais são as características dos profissionais especialistas em DevOps. GAEA, 2020. Disponível em: https://bit.ly/3sdm0tW. Acesso em: 23 mar. 2021.
+
+GOLDIN, P. 25 vantagens do DevOps. DevOps Digest, 2016. Disponível em: https://bit.ly/37CIRFZ. Acesso em: 13 dez. 2021.
+
+GOMES, R.; SOUZA, R. Docker: infraestrutura como código, com autonomia e replicabilidade. In: WORKSHOP DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO DAS IFES, 9., 2015, Belo Horizonte. Anais [...]. Belo Horizonte, MG: IFES, 2015.
+
+GONÇALVES, R. C. Gestão da informação em redes com servidores virtualizados: um modelo de apoio para gestores de microempresas e analistas de sistemas. 2017, 152f. Dissertação (Mestrado em Gestão Organizacional) – Universidade Federal de Goiás, Catalão, 2017.
+
+GOOGLE CLOUD. Medição de DevOps: monitoramento e observabilidade. 2021. Disponível em: https://bit.ly/2VSXp1C. Acesso em: 13 dez. 2021.
+
+GRAFANA. Disponível em: https://bit.ly/2VSHLnc. Acesso em:13 dez. 2021.
+
+GRAPHITE. Disponível em: https://bit.ly/3jUlrBG. Acesso em: 13 dez. 2021.
+
+HUMBLE, J.; FARLEY, D. Entrega Contínua: como entregar de forma rápida e confiável. Porto Alegre, RS: Bookman, 2014.
+
+IESE BUSINESS SCHOOL. The 5 keys to a digital mindset. Forbes, 2014. Disponível em: https://bit.ly/3jPnWVH. Acesso em: 13 dez.  2021.
+
+JUNIOR, P. R. Monitoramento de servidores e infraestrutura. [S. I.: s. n.], 2015. Disponível em: https://bit.ly/3CLmv3b. Acesso em: 13 dez. 2021.
+
+KIBANA. Disponível em: https://bit.ly/37Jtewt. Acesso em: 13 dez. 2021.
+
+LIMA, J. dos R. Monitoramento Zabbix. 2. ed. Rio de Janeiro: Brasport, 2020.
+
+MARTIN, R. C. Desenvolvimento ágil limpo: de volta às origens. Rio de Janeiro: Alta Books, 2020.
+
+OLIVEIRA, K. C. de A. Um processo de gerência de configuração baseado no 2 de CMMI estagiado para fábricas de softwares orientadas para produtos. 2007, 146f. Dissertação (Mestrado em Ciências da Computação) – Universidade Federal de Pernambuco, Recife, 2007. Disponível em: https://bit.ly/3AGBXvS. Acesso em: 13 dez. 2021.
+
+OPENNMS. Disponível em: https://bit.ly/3AIxglk. Acesso em: 13 dez.  2021
+
+POPPENDIECK, M.; POPPENDIECK, T Implementando o desenvolvimento lean de software: do conceito ao dinheiro. Porto Alegre, RS: Bookman, 2011.
+
+PROMETHEUS. Disponível em: https://bit.ly/3jYOCng. Acesso em: 13 dez. 2021.
+
+ROSSATO, C. A. Comparativo entre o método ágil e o tradicional. 2015, 20f. Artigo (Especialização em Governança de TI) – Universidade do Sul de Santa Catarina, Tubarão, 2017. Disponível em: https://bit.ly/3jQLE3W. Acesso em: 5 maio 2021.
+
+SENS, E.; RODRIGUES, J. R. S. O tripwire e a integridade de sistemas GNU/Linux. Lavras, MG: Universidade Federal de Lavras, 2003. Disponível em: https://bit.ly/2VVt6aT. Acesso em: 13 dez. 2021.
+
+SHAHIN, M.; BABAR, M. A.; ZHU, L. Continuous Integration, Delivery and Deployment: a systematic review on approaches, tools, challenges and practices. Ieee, Sidney, v. 5, p. 3909-3943, mar. 2017. Disponível em: :. Acesso em:13 dez. 2021.
+
+SOUSA, L.; TRIGO, A.; VARAJÃO, J. DevOps – fundamentos e perspectivas. In: CONFERÊNCIA DA ASSOCIAÇÃO PORTUGUESA DE SISTEMAS DE INFORMAÇÃO, 19., 2019, Lisboa. Anais [...]. Lisboa, Portugal: APSI, 2019.
+
+TANENBAUM, A. S. Sistemas operacionais modernos. 3. ed. São Paulo: Pearson Prentice Hall, 2009.
+
+THE (SHORT) HISTORY OF DEVOPS. [S. l.: s. n.], 2012. Publicado pelo canal Damon Edwards. Disponível em: https://bit.ly/3jREi03. Acesso em: 13 dez. 2021.
+
+TRANSFORMAÇÃO DIGITAL. Mindset Digital: onde começa a transformação. Transformação digital, 2018. Disponível em: https://bit.ly/3jOGENj. Acesso em: 13 dez. 2021.
+
+TRIPWIRE. Disponível em: https://bit.ly/3m1oo63. Acesso em: 13 dez. 2021.
+
+TURNBULL, J. Pulling Strings with Puppet. New York: Apress, 2007.
